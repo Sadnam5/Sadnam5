@@ -47,7 +47,8 @@
     <p>&copy; 2025 Wind Breaker. All rights reserved.</p>
   </footer>
 </body>
-</html>body {
+</html>
+body {
   font-family: 'Segoe UI', sans-serif;
   margin: 0;
   padding: 0;
